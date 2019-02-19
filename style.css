@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-align: center;
+}
+
+a:link {
+    text-align: center;
+}
+
+.container {
+    box-sizing: content-box;
+    width: 550px;
+    height: 500px;
+    border: 5px solid black;
+    justify-content: center;
+    margin: auto;
+}
+
+.col2 {
+    box-sizing: border-box;
+
+    width : 35%;
+    margin: auto;
+    border: 10px;
+    justify-content: center;
+}
